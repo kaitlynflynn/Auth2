@@ -109,7 +109,7 @@ The players:
 * For jwt signing and decoding the tokens we use `jsonwebtoken`.
 
 
-#Client Auth
+# Client Auth
 
 For routes:
 
